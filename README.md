@@ -33,7 +33,7 @@ Tecnologías y Herramientas en Proceso de Aprendizaje:
 3. CV en LinkedIn y Canales Digitales
 
 Mantengo una identidad profesional coherente e interconectada en las plataformas digitales:
-* Perfil Profesional en LinkedIn: [Mi perfil de LinkedIn](www.linkedin.com/in/josué-lópez-685041436)
+* Perfil Profesional en LinkedIn: [Mi perfil de LinkedIn](www.linkedin.com/in/josuelpz31)
 * Curriculum Vitae Digital (PDF): [Descargar CV Actualizado](PEGA-AQUI-EL-ENLACE-A-TU-CV)
 * Correo Institucional UTP: josue.lopez2@utp.ac.pa
 
