@@ -1,8 +1,6 @@
 #  Tu Marca Digital en la Era Digital | Perfil Profesional
 
-> *"Construyendo una huella digital segura, ética e impactante desde la Universidad Tecnológica de Panamá.
-
----
+> "Construyendo una huella digital segura, ética e impactante desde la Universidad Tecnológica de Panamá.
 
 1. Importancia de la Marca Digital 
 
