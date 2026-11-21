@@ -20,17 +20,15 @@ Entiendo la marca personal no como un currículum estático, sino como la demost
 Como estudiante en etapa inicial, este portafolio evolutivo documenta mis avances prácticos y laboratorios desarrollados durante la carrera:
 
 Tecnologías y Herramientas en Proceso de Aprendizaje:
-- Sistemas Operativos: Linux (Ubuntu/Debian), Windows Server
+- Sistemas Operativos: Linux (Ubuntu/Debian), Windows Server y diferentes distribuciones de linux.
 - Redes & Seguridad: Modelo OSI/TCP-IP, Wireshark, Cisco Packet Tracer
-- Programación & Scripting:Python (Fundamentos), Bash, Markdown
+- Programación & c/c++, Fundamentos en Java y redes informaticas.
 - Herramientas Colaborativas: Git, GitHub, VS Code
 
  Proyectos y Laboratorios Académicos (UTP):
-- Configuración de Perfil Profesional y Marca Digital:** Proyecto parcial evaluado en la asignatura Sistemas Colaborativos (UTP, 2026).
-- Laboratorio de Simulación de Redes Seguras:** *(En desarrollo)* Captura y análisis de paquetes en redes locales.
-- Scripts de Automatización para Tareas Administrativas:** *(Próximamente)* Herramientas en Python/Bash para verificación de archivos.
-
----
+- Configuración de Perfil Profesional y Marca Digital: Proyecto parcial evaluado en la asignatura Sistemas Colaborativos (UTP, 2026).
+- Laboratorio de Simulación de Redes Seguras: Captura y análisis de paquetes en redes locales.
+- Uso de comandos en diferentes distribuciones en linux.
 
 3. CV en LinkedIn y Canales Digitales
 
