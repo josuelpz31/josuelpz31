@@ -1,4 +1,4 @@
-#  Tu Marca Digital en la Era Digital | Perfil Profesional
+ Tu Marca Digital en la Era Digital | Perfil Profesional
 
 > "Construyendo una huella digital segura, ética e impactante desde la Universidad Tecnológica de Panamá.
 
@@ -34,7 +34,7 @@ Tecnologías y Herramientas en Proceso de Aprendizaje:
 
 Mantengo una identidad profesional coherente e interconectada en las plataformas digitales:
 * Perfil Profesional en LinkedIn:** [Josué López en LinkedIn](https://www.linkedin.com/in/josuelpz31)
-* Curriculum Vitae Digital (PDF):** [Descargar CV Actualizado](PEGA-AQUI-EL-ENLACE-A-TU-CV)
+* Curriculum Vitae Digital (PDF):** [Descargar CV Actualizado](CV%20Curriculum%20PDF.pdf)
 * Correo Institucional UTP:** josue.lopez2@utp.ac.pa
 ---
 
